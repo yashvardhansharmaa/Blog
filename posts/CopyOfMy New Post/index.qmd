@@ -1,0 +1,13 @@
+---
+title: "This Is A New Post"
+author: "Yashvardhan"
+date: "2023-08-20"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is some post with executable code that I totally wrote.
+
+```{r}
+1 + 1
+```
