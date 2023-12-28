@@ -1,12 +1,34 @@
 ---
-title: "This Is A New Post"
+title: "History of Mission Dolores Park: Utopia or Dystopia?"
 author: "Yashvardhan"
 date: "2023-08-20"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is some post with executable code that I totally wrote.
+Imagine a place with the most magnificent view of the city. From the top, you can see the bright sun rays shining through the most unbelievable, picturesque view of the San Francisco skyline. Golden labradors and Siberian Huskies are zooming around with their family throwing balls. People in bright, loose floral-patterned clothing with long, fuzzy hair reeking their favorite magical herb to achieve an elevated state of mind. Quality relationships develop in this place: men on picnic blankets, looking up at the sky, become more than just friends; a young couple on their first date are talking across wine, cheese, and, of course, the magical herb. 
+​​
+Welcome to Mission Dolores Park, a place I called my favorite place without hesitation. Amidst the chaos and tension of everyday life, I would come here to take a pause, breathe in, look at the city, and reflect on my own life from a bird’s eye view. That feeling reminds me of the words of Walt Whitman, “that the powerful play goes on, and you may contribute a verse.” I am a tiny, tiny dot in this universe and shouldn’t bother too much. 
+
+When I revisited the park to take pictures for this assignment, I saw ‘Miguel Hidalgo, the liberator of Mexico - 1810’. I had never heard of this name before. As a self-proclaimed history nerd, I was thoroughly intrigued by the park’s primordial landscape. 
+After several days of research, I discovered a utopia in Dolores. 
+
+Except, this time, I was not dreaming of the modern-day technological haven that I see today. I thought of a utopia in the 17th century within the lives of the Yelamus, the indigenous tribe that lived here. 
+
+Yelamus, the native inhabitants of San Francisco, lived on the land for possibly thousands of years before the Spanish arrived in 1776 and began their catholic missions. They were a tribelet (a small sub-group of the larger tribe) of the Ohlone Tribe. There were about forty tribelets within the Ohlone tribe, each with its own territory and language; the size of an average tribelet was only about 250 people (Margolin, 1996).
+
+In the land of the Yelamus, every individual was treated equally with kindness and respect. There was no sense of hierarchy, differences in social status, or form of governance in their community. They likely functioned similarly to direct democracy, wherein all individuals would come together to make decisions collectively. One of the missionaries documented, “In their pagan state no superiority of any kind was recognized.” Unlike the convoluted and divided world we live in today, these native populations did not have a caste system. Additionally, men and women were given equal voices on the tables of the Yelamus. Both sexes met at village centers after sunset, where stories were recited, and folkloric songs chanted, again and again, accompanied by endless dancing.
+
+They genuinely loved the earth. The landscape of San Francisco was completely different back then. Tall (sometimes reaching the shoulders of the natives), sharp, and thin grasses covered the vast meadowlands in San Francisco (Margolin, 1996). Stephen Powers, a prominent journalist and adventurer of the nineteenth century, wrote that mothers taught their children their tribal boundaries by reciting its features “in a kind of sing-song;” they would echo the names of boulders, trees, canyons, and other landmarks until the children remember every square of their land (Kamiya, 2013). For their food, they would munch on acorns, hunt fishes on the shore, or pick berries from the wild trees nearby. Perhaps this was why they survived for numerous centuries: they lived sustainably and harmoniously with nature, taking care of the land, and putting the environment’s needs above theirs.
+
+If this was not impressive enough, then the final thing that makes me adore this tribe is their generosity and interdependence. The Yelamus were guided by the principle of utmost kindness. When the Spanish missionaries came to their land, instead of being defensive and attacking them, they welcomed them with open arms. In an account from a missionary from June 27, 1776 (when the Spanish first arrived at their village), the group showed them around their land and gave them gifts. 
+
+Francisco Palou, a Franciscan missionary, recorded in his journal one of their earliest interactions with the tribe and wrote, “Many pagans came in, making signs of friendship and expressing their pleasure at our arrival [...] They continued to visit us frequently, bringing us presents of small value, principally shellfish, and grass seeds.” Furthermore, the Ohlone put their tribe and families above everything. “What is a man? A man is nothing. Without his family, he is of less importance than a bug crossing the trail, of less importance than spit or dung.” (Kamiya, 2013). An individual was nothing; the group, the family, and their tribe were everything.
+
+This is utopia, at least for me. I do not think a utopia is a perfect place. Instead, utopia is a feeling. A euphoric feeling that comes intrinsically. It is a feeling that one can only achieve while living in an environmentally sustainable manner, savoring each moment as it passes while being around their loved ones, and treating each individual with kindness and compassion. 
+
+As I sit at the highest point of Mission Dolores now, I think of the individuals in San Francisco inside their towering skyscrapers who are building multi-million dollar technologies to create an artificial utopia. I suppose they just do not realize that utopia already exists on this 
+land.
 
 ```{r}
 1 + 1
